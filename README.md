@@ -1,11 +1,10 @@
 # Titanic Dataset
 
-The following repository contains a solution of Kaggle problem regarding survivors of Titanic cruise.
+The following repository contains a solution of Kaggle problem regarding survivors of Titanic cruise (https://www.kaggle.com/c/titanic).
 
 ## Contents
 
-1. `Titanic.ipynb` - Jupyter Notebook containing notes, solution and conclusion regarding the problem
-2. `test.csv` and `train.csv` - test and train sets
+* `Titanic.ipynb` - Jupyter Notebook containing notes, solution and conclusion regarding the problem
 
 ## Solution
 The solution uses three algorithms: 
